@@ -1,5 +1,6 @@
-#!/bash/bin
+#!/bin/bash
+
 for n in {1..5};
-do 
-	echo $n
+do
+    echo $n
 done
